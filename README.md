@@ -104,8 +104,6 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 - **T5:** Developed by Google Research for text-to-text transformations.
 - **NLTK:** Natural Language Toolkit for text processing.
 
-## Contact
-For any questions or feedback, please contact **[Your Name]** at **[your.email@example.com]**.
 
 Enjoy using WriteWise to improve your writing skills and achieve better results in your essays and assignments! 🚀
 
