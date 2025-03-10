@@ -12,6 +12,10 @@ WriteWise is an AI-powered essay and assignment feedback tool designed to help s
 - **Word Count and Statistics:** Tracks words, characters, sentences, and paragraphs.
 - **User-Friendly Interface:** Clean, intuitive design with easy navigation.
 
+## IMAGE
+![image](https://github.com/user-attachments/assets/41579355-e962-426d-a099-79e608cb0de4)
+
+
 ## Installation
 
 ### Prerequisites
